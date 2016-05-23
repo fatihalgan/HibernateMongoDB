@@ -1,0 +1,6 @@
+D:\EclipseWorkspaces\HibernateMongoDB\HOGMviaHNAPI_JDBC_Tomcat7\src\main\java\hogm\hnapi\util\without\hibernate\cfg\HibernateUtil.java
+D:\EclipseWorkspaces\HibernateMongoDB\HOGMviaHNAPI_JDBC_Tomcat7\src\main\java\hogm\hnapi\util\with\hibernate\cfg\HibernateUtil.java
+D:\EclipseWorkspaces\HibernateMongoDB\HOGMviaHNAPI_JDBC_Tomcat7\src\main\java\hogm\hnapi\pojo\LuckyNumberEntity.java
+D:\EclipseWorkspaces\HibernateMongoDB\HOGMviaHNAPI_JDBC_Tomcat7\src\main\java\hogm\hnapi\dao\LuckyNumberDAO.java
+D:\EclipseWorkspaces\HibernateMongoDB\HOGMviaHNAPI_JDBC_Tomcat7\src\main\java\hogm\hnapi\pojo\LuckyNumberPojo.java
+D:\EclipseWorkspaces\HibernateMongoDB\HOGMviaHNAPI_JDBC_Tomcat7\src\main\java\hogm\hnapi\servlet\LuckyNumberServlet.java
